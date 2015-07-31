@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Ahorcado", "Ahorcado\Ahorcado.shproj", "{200E4E53-311F-4571-B90B-A9BCAE284957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahorcado.Droid", "Droid\Ahorcado.Droid.csproj", "{9DF895F2-6DD8-4314-8A8A-DDA9D51D460E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahorcado.UITests", "UITests\Ahorcado.UITests.csproj", "{C60265E4-7C09-4E76-ADDB-E691437ADA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF895F2-6DD8-4314-8A8A-DDA9D51D460E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF895F2-6DD8-4314-8A8A-DDA9D51D460E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF895F2-6DD8-4314-8A8A-DDA9D51D460E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF895F2-6DD8-4314-8A8A-DDA9D51D460E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60265E4-7C09-4E76-ADDB-E691437ADA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60265E4-7C09-4E76-ADDB-E691437ADA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60265E4-7C09-4E76-ADDB-E691437ADA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60265E4-7C09-4E76-ADDB-E691437ADA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

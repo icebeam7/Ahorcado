@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "001",
+    "Text": "Xamarin"
+  },
+  {
+    "Code": "002",
+    "Text": "Android"
+  },
+  {
+    "Code": "003",
+    "Text": "Windows Phone"
+  },
+  {
+    "Code": "004",
+    "Text": "iOS"
+  },
+  {
+    "Code": "005",
+    "Text": "Tecno"
+  },
+  {
+    "Code": "006",
+    "Text": "Guanajuato"
+  },
+  {
+    "Code": "007",
+    "Text": "Mexico"
+  },
+  {
+    "Code": "008",
+    "Text": "Celaya"
+  },
+  {
+    "Code": "009",
+    "Text": "Republica Checa"
+  },
+  {
+    "Code": "010",
+    "Text": "Ahorcado"
+  }
+]
